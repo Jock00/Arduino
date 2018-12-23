@@ -1,9 +1,15 @@
 MotherLoad
+
 Jocul este inspirat dupa https://www.miniclip.com/games/motherload/ro/
+
 Jocul este alcatuit din urmatorele piese :
+
 -placuta arduino uno
+
 -matrice 8x8 
+
 -driver MAX7219
+
 -3 LED-uri
 -5 rezistente 220k
 -push button
