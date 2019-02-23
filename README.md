@@ -42,5 +42,4 @@ Jocul este alcatuit din urmatorele piese :
 
   Aceste lucruri se pot intampla de maximum 3 ori.
   
- Video : https://www.youtube.com/watch?v=KYmaNyNfoC4
-   
+ Video : https://www.youtube.com/watch?v=y_nJXbQbtpw
